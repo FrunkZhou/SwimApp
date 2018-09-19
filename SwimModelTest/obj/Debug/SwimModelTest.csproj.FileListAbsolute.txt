@@ -1,0 +1,61 @@
+D:\VS2017\Assignment3\SwimModelTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\VS2017\Assignment3\SwimModelTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\VS2017\Assignment3\SwimModelTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\VS2017\Assignment3\SwimModelTest\bin\Debug\SwimModelTest.dll
+D:\VS2017\Assignment3\SwimModelTest\bin\Debug\SwimModelTest.pdb
+D:\VS2017\Assignment3\SwimModelTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\VS2017\Assignment3\SwimModelTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\VS2017\Assignment3\SwimModelTest\bin\Debug\SwimLib.dll
+D:\VS2017\Assignment3\SwimModelTest\bin\Debug\SwimLib.pdb
+D:\VS2017\Assignment3\SwimModelTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\VS2017\Assignment3\SwimModelTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\VS2017\Assignment3\SwimModelTest\obj\Debug\SwimModelTest.csprojAssemblyReference.cache
+D:\VS2017\Assignment3\SwimModelTest\obj\Debug\SwimModelTest.csproj.CoreCompileInputs.cache
+D:\VS2017\Assignment3\SwimModelTest\obj\Debug\SwimModelTest.csproj.CopyComplete
+D:\VS2017\Assignment3\SwimModelTest\obj\Debug\SwimModelTest.dll
+D:\VS2017\Assignment3\SwimModelTest\obj\Debug\SwimModelTest.pdb
+E:\VS2017\Assignment3\SwimModelTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\VS2017\Assignment3\SwimModelTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\VS2017\Assignment3\SwimModelTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\VS2017\Assignment3\SwimModelTest\bin\Debug\SwimModelTest.dll
+E:\VS2017\Assignment3\SwimModelTest\bin\Debug\SwimModelTest.pdb
+E:\VS2017\Assignment3\SwimModelTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\VS2017\Assignment3\SwimModelTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\VS2017\Assignment3\SwimModelTest\bin\Debug\SwimLib.dll
+E:\VS2017\Assignment3\SwimModelTest\bin\Debug\SwimLib.pdb
+E:\VS2017\Assignment3\SwimModelTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\VS2017\Assignment3\SwimModelTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\VS2017\Assignment3\SwimModelTest\obj\Debug\SwimModelTest.csprojResolveAssemblyReference.cache
+E:\VS2017\Assignment3\SwimModelTest\obj\Debug\SwimModelTest.csproj.CoreCompileInputs.cache
+E:\VS2017\Assignment3\SwimModelTest\obj\Debug\SwimModelTest.dll
+E:\VS2017\Assignment3\SwimModelTest\obj\Debug\SwimModelTest.pdb
+H:\COMP125\VS2017\Assignment3\SwimModelTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+H:\COMP125\VS2017\Assignment3\SwimModelTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+H:\COMP125\VS2017\Assignment3\SwimModelTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+H:\COMP125\VS2017\Assignment3\SwimModelTest\bin\Debug\SwimModelTest.dll
+H:\COMP125\VS2017\Assignment3\SwimModelTest\bin\Debug\SwimModelTest.pdb
+H:\COMP125\VS2017\Assignment3\SwimModelTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+H:\COMP125\VS2017\Assignment3\SwimModelTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+H:\COMP125\VS2017\Assignment3\SwimModelTest\bin\Debug\SwimLib.dll
+H:\COMP125\VS2017\Assignment3\SwimModelTest\bin\Debug\SwimLib.pdb
+H:\COMP125\VS2017\Assignment3\SwimModelTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+H:\COMP125\VS2017\Assignment3\SwimModelTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+H:\COMP125\VS2017\Assignment3\SwimModelTest\obj\Debug\SwimModelTest.csprojResolveAssemblyReference.cache
+H:\COMP125\VS2017\Assignment3\SwimModelTest\obj\Debug\SwimModelTest.dll
+H:\COMP125\VS2017\Assignment3\SwimModelTest\obj\Debug\SwimModelTest.pdb
+S:\Documents\Uni\Centennial\Semester 2\Prog2\Assignment3\SwimModelTest\obj\Debug\SwimModelTest.csprojAssemblyReference.cache
+S:\Documents\Uni\Centennial\Semester 2\Prog2\Assignment3\SwimModelTest\obj\Debug\SwimModelTest.csproj.CoreCompileInputs.cache
+S:\Documents\Uni\Centennial\Semester 2\Prog2\Assignment3\SwimModelTest\obj\Debug\SwimModelTest.dll
+S:\Documents\Uni\Centennial\Semester 2\Prog2\Assignment3\SwimModelTest\obj\Debug\SwimModelTest.pdb
+S:\Documents\Uni\Centennial\Semester 2\Prog2\Assignment3\SwimModelTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+S:\Documents\Uni\Centennial\Semester 2\Prog2\Assignment3\SwimModelTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+S:\Documents\Uni\Centennial\Semester 2\Prog2\Assignment3\SwimModelTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+S:\Documents\Uni\Centennial\Semester 2\Prog2\Assignment3\SwimModelTest\bin\Debug\SwimModelTest.dll
+S:\Documents\Uni\Centennial\Semester 2\Prog2\Assignment3\SwimModelTest\bin\Debug\SwimModelTest.pdb
+S:\Documents\Uni\Centennial\Semester 2\Prog2\Assignment3\SwimModelTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+S:\Documents\Uni\Centennial\Semester 2\Prog2\Assignment3\SwimModelTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+S:\Documents\Uni\Centennial\Semester 2\Prog2\Assignment3\SwimModelTest\bin\Debug\SwimModel.dll
+S:\Documents\Uni\Centennial\Semester 2\Prog2\Assignment3\SwimModelTest\bin\Debug\SwimModel.pdb
+S:\Documents\Uni\Centennial\Semester 2\Prog2\Assignment3\SwimModelTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+S:\Documents\Uni\Centennial\Semester 2\Prog2\Assignment3\SwimModelTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+S:\Documents\Uni\Centennial\Semester 2\Prog2\Assignment3\SwimModelTest\obj\Debug\SwimModelTest.csproj.CopyComplete

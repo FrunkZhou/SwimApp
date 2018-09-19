@@ -1,0 +1,41 @@
+E:\VS2017\ClassExample\SwimLib\SwimLib\bin\Debug\SwimLib.dll
+E:\VS2017\ClassExample\SwimLib\SwimLib\bin\Debug\SwimLib.pdb
+E:\VS2017\ClassExample\SwimLib\SwimLib\obj\Debug\SwimModel.csprojResolveAssemblyReference.cache
+E:\VS2017\ClassExample\SwimLib\SwimLib\obj\Debug\SwimModel.csproj.CoreCompileInputs.cache
+E:\VS2017\ClassExample\SwimLib\SwimLib\obj\Debug\SwimLib.dll
+E:\VS2017\ClassExample\SwimLib\SwimLib\obj\Debug\SwimLib.pdb
+D:\VS2017\ClassExample\SwimLib\SwimLib\bin\Debug\SwimLib.dll
+D:\VS2017\ClassExample\SwimLib\SwimLib\bin\Debug\SwimLib.pdb
+D:\VS2017\ClassExample\SwimLib\SwimLib\obj\Debug\SwimModel.csprojAssemblyReference.cache
+D:\VS2017\ClassExample\SwimLib\SwimLib\obj\Debug\SwimModel.csproj.CoreCompileInputs.cache
+D:\VS2017\ClassExample\SwimLib\SwimLib\obj\Debug\SwimLib.dll
+D:\VS2017\ClassExample\SwimLib\SwimLib\obj\Debug\SwimLib.pdb
+D:\VS2017\Assignment3\SwimLib\bin\Debug\SwimLib.dll
+D:\VS2017\Assignment3\SwimLib\bin\Debug\SwimLib.pdb
+D:\VS2017\Assignment3\SwimLib\obj\Debug\SwimModel.csprojAssemblyReference.cache
+D:\VS2017\Assignment3\SwimLib\obj\Debug\SwimModel.csproj.CoreCompileInputs.cache
+D:\VS2017\Assignment3\SwimLib\obj\Debug\SwimLib.dll
+D:\VS2017\Assignment3\SwimLib\obj\Debug\SwimLib.pdb
+E:\VS2017\Assignment3\SwimLib\bin\Debug\SwimLib.dll
+E:\VS2017\Assignment3\SwimLib\bin\Debug\SwimLib.pdb
+E:\VS2017\Assignment3\SwimLib\obj\Debug\SwimModel.csprojResolveAssemblyReference.cache
+E:\VS2017\Assignment3\SwimLib\obj\Debug\SwimModel.csproj.CoreCompileInputs.cache
+E:\VS2017\Assignment3\SwimLib\obj\Debug\SwimLib.dll
+E:\VS2017\Assignment3\SwimLib\obj\Debug\SwimLib.pdb
+H:\COMP125\VS2017\Assignment3\SwimLib\bin\Debug\SwimLib.dll
+H:\COMP125\VS2017\Assignment3\SwimLib\bin\Debug\SwimLib.pdb
+H:\COMP125\VS2017\Assignment3\SwimLib\obj\Debug\SwimModel.csprojResolveAssemblyReference.cache
+H:\COMP125\VS2017\Assignment3\SwimLib\obj\Debug\SwimLib.dll
+H:\COMP125\VS2017\Assignment3\SwimLib\obj\Debug\SwimLib.pdb
+S:\Documents\Uni\Centennial\Semester 2\Prog2\Prog\Assignment3\SwimLib\bin\Debug\SwimLib.dll
+S:\Documents\Uni\Centennial\Semester 2\Prog2\Prog\Assignment3\SwimLib\bin\Debug\SwimLib.pdb
+S:\Documents\Uni\Centennial\Semester 2\Prog2\Prog\Assignment3\SwimLib\obj\Debug\SwimModel.csprojAssemblyReference.cache
+S:\Documents\Uni\Centennial\Semester 2\Prog2\Prog\Assignment3\SwimLib\obj\Debug\SwimModel.csproj.CoreCompileInputs.cache
+S:\Documents\Uni\Centennial\Semester 2\Prog2\Prog\Assignment3\SwimLib\obj\Debug\SwimLib.dll
+S:\Documents\Uni\Centennial\Semester 2\Prog2\Prog\Assignment3\SwimLib\obj\Debug\SwimLib.pdb
+S:\Documents\Uni\Centennial\Semester 2\Prog2\Assignment3\SwimLib\obj\Debug\SwimModel.csproj.CoreCompileInputs.cache
+S:\Documents\Uni\Centennial\Semester 2\Prog2\Assignment3\SwimLib\bin\Debug\SwimModel.dll
+S:\Documents\Uni\Centennial\Semester 2\Prog2\Assignment3\SwimLib\bin\Debug\SwimModel.pdb
+S:\Documents\Uni\Centennial\Semester 2\Prog2\Assignment3\SwimLib\obj\Debug\SwimModel.csprojAssemblyReference.cache
+S:\Documents\Uni\Centennial\Semester 2\Prog2\Assignment3\SwimLib\obj\Debug\SwimModel.dll
+S:\Documents\Uni\Centennial\Semester 2\Prog2\Assignment3\SwimLib\obj\Debug\SwimModel.pdb
